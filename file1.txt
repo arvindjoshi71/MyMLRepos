@@ -1,10 +1,12 @@
 
-this is file1!!!!welcome to git...............
+This is File1!!!!======welcome to git...............
 
 
 
-Change 1
+Change 1.....
 
 
 
-Change 2
+Change 2....
+
+
